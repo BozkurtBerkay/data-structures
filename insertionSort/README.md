@@ -1,15 +1,15 @@
 # <strong> Insertion Sort Sorular:
 
-## <strong> [22,27,16,2,18,6] -> Insertion Sort 
+## <strong> [22,27,16,2,18,6] -> Insertion Sort
 
 <br>
-  
+
 ### 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
-  
+
 <br>
 <hr>
-  
-![github](/images/firstArr.png)
+
+![github](/images/insertion/firstArr.png)
 
 <br>
 <hr>
@@ -31,15 +31,15 @@
 <hr>
 <br>
 
-### 3. Time Complexity: 
+### 3. Time Complexity:
 <br>
-  
+
 #### Average Case: Aradığımız sayının ortada olması,
-  
-#### Worst Case: Aradığımız sayının sonda olması, 
-  
+
+#### Worst Case: Aradığımız sayının sonda olması,
+
 #### Best Case: Aradığımız sayının dizinin en başında olması.
-  
+
 <br>
 
 ```
@@ -69,7 +69,7 @@ Average case kapsamına girer.
 ### 5. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre "ilk 4 adımını" yazınız:
 <br>
 
-![github](/images/secondArr.png)
+![github](/images/insertion/secondArr.png)
 
 <br>
 <hr>
