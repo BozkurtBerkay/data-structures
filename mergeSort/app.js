@@ -34,4 +34,4 @@ const mergeSort = (array) => {
   return merge(mergeSort(leftArr), mergeSort(rightArr));
 };
 
-mergeSort(data);
+console.log(mergeSort(data));

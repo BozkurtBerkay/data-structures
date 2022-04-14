@@ -1,6 +1,6 @@
 # <strong> Insertion Sort Sorular:
 
-## <strong> [16,21,11,8,12,22] -> Merge Sort
+## <strong> [16, 21, 11, 8, 12, 22] -> Merge Sort
 
 <br>
 
@@ -9,7 +9,7 @@
 <br>
 <hr>
 
-![github](/images/firstArr.png)
+![github](/images/merge/result.png)
 
 <br>
 <hr>
@@ -18,7 +18,7 @@
 ### 2. Big-O gösterimini yazınız.
 
 ```
-
+O(n*log(n))
 
 ```
 
